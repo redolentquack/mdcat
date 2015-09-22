@@ -19,3 +19,5 @@ e.g.
 You get some extra colour for headers, quotes, code etc.
 
 That's it, super simple `;-)`
+
+![](sample.png)
