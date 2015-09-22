@@ -4,8 +4,6 @@
 
 ## Current Release
 
-![build status](https://travis-ci.org/redolentquack/mdcat.svg?branch=master)
-
 [https://github.com/redolentquack/mdcat/releases](https://github.com/redolentquack/mdcat/releases)
 
 ## Usage
