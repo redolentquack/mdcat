@@ -1,2 +1,2 @@
 language: csharp
-solution: src/mdcat/mdcat.sln
+solution: src/mdcat.sln
