@@ -1,3 +1,12 @@
+platform: Any CPU
+
+configuration: Release
+
+before_build:
+  cd src
+  nuget restore
+  cd ..
+
 test:
   assemblies:
     - '**\*.tests.dll'
