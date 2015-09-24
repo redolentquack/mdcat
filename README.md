@@ -1,5 +1,7 @@
 # mdcat
 
+[![Build status](https://ci.appveyor.com/api/projects/status/qnbe67cv5rxcvvq4/branch/master?svg=true)](https://ci.appveyor.com/project/redolentquack/mdcat/branch/master)
+
 > Super simple console highlighting for Markdown (style) files.
 
 ## Current Release
