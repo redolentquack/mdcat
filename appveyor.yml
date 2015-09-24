@@ -11,4 +11,3 @@ test: off
 
 artifacts:
   - path: src\mdcat\bin\Release\mdcat.exe
-  - name: mdcat.zip
