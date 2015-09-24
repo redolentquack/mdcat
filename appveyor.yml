@@ -7,6 +7,4 @@ before_build:
   - nuget restore
   - cd ..
 
-test:
-  assemblies:
-    - '**\*.tests.dll'
+test: off
