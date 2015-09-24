@@ -9,5 +9,8 @@ before_build:
 
 test: off
 
+after_build: 7z a mdcat.zip src\mdcat\bin\$(configuration)\mdcat.exe
+
 artifacts:
-  - path: src\mdcat\bin\Release\mdcat.exe
+  - path: mdcat.zip
+    name: mdcat
